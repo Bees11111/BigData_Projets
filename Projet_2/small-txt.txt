@@ -1,0 +1,500 @@
+Jurgen Annevelink	Modern Database Systems	Object SQL - A Language for the Design and Implementation of Object Databases.	1995
+Rafiul Ahad	Modern Database Systems	Object SQL - A Language for the Design and Implementation of Object Databases.	1995
+Amelia Carlson	Modern Database Systems	Object SQL - A Language for the Design and Implementation of Object Databases.	1995
+Daniel H. Fishman	Modern Database Systems	Object SQL - A Language for the Design and Implementation of Object Databases.	1995
+Michael L. Heytens	Modern Database Systems	Object SQL - A Language for the Design and Implementation of Object Databases.	1995
+William Kent	Modern Database Systems	Object SQL - A Language for the Design and Implementation of Object Databases.	1995
+Jos A. Blakeley	Modern Database Systems	OQL[C++]: Extending C++ with an Object Query Capability.	1995
+Yuri Breitbart	Modern Database Systems	Transaction Management in Multidatabase Systems.	1995
+Hector Garcia-Molina	Modern Database Systems	Transaction Management in Multidatabase Systems.	1995
+Abraham Silberschatz	Modern Database Systems	Transaction Management in Multidatabase Systems.	1995
+Stavros Christodoulakis	Modern Database Systems	Multimedia Information Systems: Issues and Approaches.	1995
+Leonidas Koveos	Modern Database Systems	Multimedia Information Systems: Issues and Approaches.	1995
+Umeshwar Dayal	Modern Database Systems	Active Database Systems.	1995
+Eric N. Hanson	Modern Database Systems	Active Database Systems.	1995
+Jennifer Widom	Modern Database Systems	Active Database Systems.	1995
+Angelika Kotz Dittrich	Modern Database Systems	Where Object-Oriented DBMSs Should Do Better: A Critique Based on Early Experiences.	1995
+Klaus R. Dittrich	Modern Database Systems	Where Object-Oriented DBMSs Should Do Better: A Critique Based on Early Experiences.	1995
+Hector Garcia-Molina	Modern Database Systems	Distributed Databases.	1995
+Meichun Hsu	Modern Database Systems	Distributed Databases.	1995
+Nathan Goodman	Modern Database Systems	An Object-Oriented DBMS War Story: Developing a Genome Mapping Database in C++.	1995
+Gail E. Kaiser	Modern Database Systems	Cooperative Transactions for Multiuser Environments.	1995
+William Kelley	Modern Database Systems	Schema Architecture of the UniSQL/M Multidatabase System	1995
+Sunit K. Gala	Modern Database Systems	Schema Architecture of the UniSQL/M Multidatabase System	1995
+Won Kim	Modern Database Systems	Schema Architecture of the UniSQL/M Multidatabase System	1995
+Tom C. Reyes	Modern Database Systems	Schema Architecture of the UniSQL/M Multidatabase System	1995
+Bruce Graham	Modern Database Systems	Schema Architecture of the UniSQL/M Multidatabase System	1995
+Alfons Kemper	Modern Database Systems	Physical Object Management.	1995
+Guido Moerkotte	Modern Database Systems	Physical Object Management.	1995
+Won Kim	Modern Database Systems	Introduction to Part 1: Next-Generation Database Technology.	1995
+Won Kim	Modern Database Systems	Object-Oriented Database Systems: Promises, Reality, and Future.	1995
+Won Kim	Modern Database Systems	Introduction to Part 2: Technology for Interoperating Legacy Databases.	1995
+Won Kim	Modern Database Systems	On Resolving Schematic Heterogeneity in Multidatabase Systems.	1995
+Injun Choi	Modern Database Systems	On Resolving Schematic Heterogeneity in Multidatabase Systems.	1995
+Sunit K. Gala	Modern Database Systems	On Resolving Schematic Heterogeneity in Multidatabase Systems.	1995
+Mark Scheevel	Modern Database Systems	On Resolving Schematic Heterogeneity in Multidatabase Systems.	1995
+Won Kim	Modern Database Systems	Requirements for a Performance Benchmark for Object-Oriented Database Systems.	1995
+Jorge F. Garza	Modern Database Systems	Requirements for a Performance Benchmark for Object-Oriented Database Systems.	1995
+Won Kim	Modern Database Systems	On View Support in Object-Oriented Databases Systems.	1995
+William Kelley	Modern Database Systems	On View Support in Object-Oriented Databases Systems.	1995
+Vincent J. Kowalski	Modern Database Systems	The POSC Solution to Managing E&P Data.	1995
+David Krieger	Modern Database Systems	C++ Bindings to an Object Database.	1995
+Tim Andrews	Modern Database Systems	C++ Bindings to an Object Database.	1995
+Teresa F. Lunt	Modern Database Systems	Authorization in Object-Oriented Databases.	1995
+Weiyi Meng	Modern Database Systems	Query Processing in Multidatabase Systems.	1995
+Clement T. Yu	Modern Database Systems	Query Processing in Multidatabase Systems.	1995
+Amihai Motro	Modern Database Systems	Management of Uncerainty in database Systems.	1995
+Edward Omiecinski	Modern Database Systems	Parallel Relational Database Systems.	1995
+M. Tamer zsu	Modern Database Systems	Query Processing in Object-Oriented Database Systems.	1995
+Jos A. Blakeley	Modern Database Systems	Query Processing in Object-Oriented Database Systems.	1995
+Marek Rusinkiewicz	Modern Database Systems	Specification and Execution of Transactional Workflows.	1995
+Amit P. Sheth	Modern Database Systems	Specification and Execution of Transactional Workflows.	1995
+Hanan Samet	Modern Database Systems	Spatial Data Structures.	1995
+Hanan Samet	Modern Database Systems	Spatial Data Models and Query Processing.	1995
+Walid G. Aref	Modern Database Systems	Spatial Data Models and Query Processing.	1995
+Ming-Chien Shan	Modern Database Systems	Pegasus: A Heterogeneous Information Management System.	1995
+Rafi Ahmed	Modern Database Systems	Pegasus: A Heterogeneous Information Management System.	1995
+Jim Davis	Modern Database Systems	Pegasus: A Heterogeneous Information Management System.	1995
+Weimin Du	Modern Database Systems	Pegasus: A Heterogeneous Information Management System.	1995
+William Kent	Modern Database Systems	Pegasus: A Heterogeneous Information Management System.	1995
+Richard T. Snodgrass	Modern Database Systems	Temporal Object-Oriented Databases: A Critical Comparison.	1995
+Richard Mark Soley	Modern Database Systems	The OMG Object Model.	1995
+William Kent	Modern Database Systems	The OMG Object Model.	1995
+Ralph L. Stout	Modern Database Systems	EDA/SQL.	1995
+Craig W. Thompson	Modern Database Systems	The Changing Database Standards Landscape.	1995
+Yuri Breitbart	Modern Database Systems	Overview of the ADDS System.	1995
+Tom C. Reyes	Modern Database Systems	Overview of the ADDS System.	1995
+Anders Bjrnerstedt	Object-Oriented Concepts, Databases, and Applications	Version Control in an Object-Oriented Architecture.	1989
+Christer Hulten	Object-Oriented Concepts, Databases, and Applications	Version Control in an Object-Oriented Architecture.	1989
+Robert Bretl	Object-Oriented Concepts, Databases, and Applications	The GemStone Data Management System.	1989
+David Maier	Object-Oriented Concepts, Databases, and Applications	The GemStone Data Management System.	1989
+Allen Otis	Object-Oriented Concepts, Databases, and Applications	The GemStone Data Management System.	1989
+D. Jason Penney	Object-Oriented Concepts, Databases, and Applications	The GemStone Data Management System.	1989
+Bruce Schuchardt	Object-Oriented Concepts, Databases, and Applications	The GemStone Data Management System.	1989
+Jacob Stein	Object-Oriented Concepts, Databases, and Applications	The GemStone Data Management System.	1989
+E. Harold Williams	Object-Oriented Concepts, Databases, and Applications	The GemStone Data Management System.	1989
+Monty Williams	Object-Oriented Concepts, Databases, and Applications	The GemStone Data Management System.	1989
+Michael J. Carey	Object-Oriented Concepts, Databases, and Applications	Storage Management in EXODUS.	1989
+David J. DeWitt	Object-Oriented Concepts, Databases, and Applications	Storage Management in EXODUS.	1989
+Joel E. Richardson	Object-Oriented Concepts, Databases, and Applications	Storage Management in EXODUS.	1989
+Eugene J. Shekita	Object-Oriented Concepts, Databases, and Applications	Storage Management in EXODUS.	1989
+Dominique Decouchant	Object-Oriented Concepts, Databases, and Applications	A Distributed Object Manager for the Smalltalk-80 System.	1989
+Jim Diederich	Object-Oriented Concepts, Databases, and Applications	Objects, Messages, and Rules in Database Design.	1989
+Jack Milton	Object-Oriented Concepts, Databases, and Applications	Objects, Messages, and Rules in Database Design.	1989
+Clarence A. Ellis	Object-Oriented Concepts, Databases, and Applications	Active Objects: Ealities and Possibilities.	1989
+Simon J. Gibbs	Object-Oriented Concepts, Databases, and Applications	Active Objects: Ealities and Possibilities.	1989
+Daniel H. Fishman	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+Jurgen Annevelink	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+David Beech	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+E. C. Chow	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+Tim Connors	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+J. W. Davis	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+Waqar Hasan	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+C. G. Hoch	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+William Kent	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+S. Leichner	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+Peter Lyngbk	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+Brom Mahbod	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+Marie-Anne Neimat	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+Tore Risch	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+Ming-Chien Shan	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+W. Kevin Wilkinson	Object-Oriented Concepts, Databases, and Applications	Overview of the Iris DBMS.	1989
+Won Kim	Object-Oriented Concepts, Databases, and Applications	Features of the ORION Object-Oriented Database System.	1989
+Nat Ballou	Object-Oriented Concepts, Databases, and Applications	Features of the ORION Object-Oriented Database System.	1989
+Hong-Tai Chou	Object-Oriented Concepts, Databases, and Applications	Features of the ORION Object-Oriented Database System.	1989
+Jorge F. Garza	Object-Oriented Concepts, Databases, and Applications	Features of the ORION Object-Oriented Database System.	1989
+Darrell Woelk	Object-Oriented Concepts, Databases, and Applications	Features of the ORION Object-Oriented Database System.	1989
+Won Kim	Object-Oriented Concepts, Databases, and Applications	Indexing Techniques for Object-Oriented Databases.	1989
+Kyung-Chang Kim	Object-Oriented Concepts, Databases, and Applications	Indexing Techniques for Object-Oriented Databases.	1989
+Alfred G. Dale	Object-Oriented Concepts, Databases, and Applications	Indexing Techniques for Object-Oriented Databases.	1989
+Roger King	Object-Oriented Concepts, Databases, and Applications	My Cat Is Object-Oriented.	1989
+David Maier	Object-Oriented Concepts, Databases, and Applications	Making Database Systems Fast Enough for CAD Applications.	1989
+Fred Mellender	Object-Oriented Concepts, Databases, and Applications	Optimizing Smalltalk Message Performance.	1989
+Steve Riegel	Object-Oriented Concepts, Databases, and Applications	Optimizing Smalltalk Message Performance.	1989
+Andrew Straw	Object-Oriented Concepts, Databases, and Applications	Optimizing Smalltalk Message Performance.	1989
+David A. Moon	Object-Oriented Concepts, Databases, and Applications	The Common List Object-Oriented Programming Language Standard.	1989
+J. Eliot B. Moss	Object-Oriented Concepts, Databases, and Applications	Object Orientation as Catalyst for Language-Database Inegration.	1989
+Oscar Nierstrasz	Object-Oriented Concepts, Databases, and Applications	A Survey of Object-Oriented Concepts.	1989
+Oscar Nierstrasz	Object-Oriented Concepts, Databases, and Applications	Integrated Office Systems.	1989
+Dennis Tsichritzis	Object-Oriented Concepts, Databases, and Applications	Integrated Office Systems.	1989
+David M. Russinoff	Object-Oriented Concepts, Databases, and Applications	Proteus: A Frame-Based Nonmonotonic Inference System.	1989
+Andrea H. Skarra	Object-Oriented Concepts, Databases, and Applications	Concurrency Control and Object-Oriented Databases.	1989
+Stanley B. Zdonik	Object-Oriented Concepts, Databases, and Applications	Concurrency Control and Object-Oriented Databases.	1989
+Lynn Andrea Stein	Object-Oriented Concepts, Databases, and Applications	A Shared View of Sharing: The Treaty of Orlando.	1989
+Henry Lieberman	Object-Oriented Concepts, Databases, and Applications	A Shared View of Sharing: The Treaty of Orlando.	1989
+David Ungar	Object-Oriented Concepts, Databases, and Applications	A Shared View of Sharing: The Treaty of Orlando.	1989
+Mark A. Tarlton	Object-Oriented Concepts, Databases, and Applications	Pogo: A Declarative Representation System for Graphics.	1989
+P. Nong Tarlton	Object-Oriented Concepts, Databases, and Applications	Pogo: A Declarative Representation System for Graphics.	1989
+Chris Tomlinson	Object-Oriented Concepts, Databases, and Applications	Concurrent Object-Oriented Programming Languages.	1989
+Mark Scheevel	Object-Oriented Concepts, Databases, and Applications	Concurrent Object-Oriented Programming Languages.	1989
+Dennis Tsichritzis	Object-Oriented Concepts, Databases, and Applications	Directions in Object-Oriented Research.	1989
+Oscar Nierstrasz	Object-Oriented Concepts, Databases, and Applications	Directions in Object-Oriented Research.	1989
+Yair Wand	Object-Oriented Concepts, Databases, and Applications	A Proposal for a Formal Model of Objects.	1989
+Stephen P. Weiser	Object-Oriented Concepts, Databases, and Applications	OZ+: An Object-Oriented Database System.	1989
+Frederick H. Lochovsky	Object-Oriented Concepts, Databases, and Applications	OZ+: An Object-Oriented Database System.	1989
+Lawrence A. Rowe	The INGRES Papers	The Commercial INGRES Epilogue.	1986
+Michael Stonebraker	The INGRES Papers	The Commercial INGRES Epilogue.	1986
+Michael Stonebraker	The INGRES Papers	Design of Relational Systems (Introduction to Section 1).	1986
+Michael Stonebraker	The INGRES Papers	Supporting Studies on Relational Systems (Introduction to Section 2).	1986
+Michael Stonebraker	The INGRES Papers	Distributed Database Systems (Introduction to Section 3).	1986
+Michael Stonebraker	The INGRES Papers	The Design and Implementation of Distributed INGRES.	1986
+Michael Stonebraker	The INGRES Papers	User Interfaces for Database Systems (Introduction to Section 4).	1986
+Michael Stonebraker	The INGRES Papers	Extended Semantics for the Relational Model (Introduction to Section 5).	1986
+Michael Stonebraker	The INGRES Papers	Database Design (Introduction to Section 6).	1986
+Marianne Baudinet	Temporal Databases	Temporal Deductive Databases.	1993
+Jan Chomicki	Temporal Databases	Temporal Deductive Databases.	1993
+Pierre Wolper	Temporal Databases	Temporal Deductive Databases.	1993
+James Clifford	Temporal Databases	The Historical Relational Data Model (HRDM) Revisited.	1993
+Albert Croker	Temporal Databases	The Historical Relational Data Model (HRDM) Revisited.	1993
+James Clifford	Temporal Databases	On the Completeness of Query Languages for Grouped and Ungrouped Historical Data Models.	1993
+Albert Croker	Temporal Databases	On the Completeness of Query Languages for Grouped and Ungrouped Historical Data Models.	1993
+Alexander Tuzhilin	Temporal Databases	On the Completeness of Query Languages for Grouped and Ungrouped Historical Data Models.	1993
+Ramez Elmasri	Temporal Databases	A Temporal Model and Query Language for EER Databases.	1993
+Gene T. J. Wuu	Temporal Databases	A Temporal Model and Query Language for EER Databases.	1993
+Vram Kouramajian	Temporal Databases	A Temporal Model and Query Language for EER Databases.	1993
+Ramez Elmasri	Temporal Databases	The Time Index and the Monotonic B+-tree.	1993
+Gene T. J. Wuu	Temporal Databases	The Time Index and the Monotonic B+-tree.	1993
+Vram Kouramajian	Temporal Databases	The Time Index and the Monotonic B+-tree.	1993
+Shashi K. Gadia	Temporal Databases	Ben-Zvi's Pioneering Work in Relational Temporal Databases.	1993
+Shashi K. Gadia	Temporal Databases	Temporal Databases: A Prelude to Parametric Data.	1993
+Sunil S. Nair	Temporal Databases	Temporal Databases: A Prelude to Parametric Data.	1993
+Seymour Ginsburg	Temporal Databases	Object and Spreadsheet Histories.	1993
+Christian S. Jensen	Temporal Databases	Differential Query Processing in Transaction-Time Databases.	1993
+Leo Mark	Temporal Databases	Differential Query Processing in Transaction-Time Databases.	1993
+Curtis P. Kolovson	Temporal Databases	Indexing Techniques for Historical Databases.	1993
+T. Y. Cliff Leung	Temporal Databases	Stream Processing: Temporal Query Processing and Optimization.	1993
+Richard R. Muntz	Temporal Databases	Stream Processing: Temporal Query Processing and Optimization.	1993
+David B. Lomet	Temporal Databases	Transaction-Time Databases.	1993
+Betty Salzberg	Temporal Databases	Transaction-Time Databases.	1993
+Nikos A. Lorentzos	Temporal Databases	The Interval-extended Relational Model and Its Applications to Valid-time Databases.	1993
+Angelo Montanari	Temporal Databases	temporal Reasoning.	1993
+Barbara Pernici	Temporal Databases	temporal Reasoning.	1993
+Shamkant B. Navathe	Temporal Databases	Temporal Extensions to the Relational Model and SQL.	1993
+Rafi Ahmed	Temporal Databases	Temporal Extensions to the Relational Model and SQL.	1993
+Nandlal L. Sarda	Temporal Databases	HSQL: A Historical Query Language.	1993
+Arie Segev	Temporal Databases	Join Processing and Optimization in Temporal Relational Databases.	1993
+Arie Segev	Temporal Databases	A Temporal Data Model Based on Time Sequences.	1993
+Arie Shoshani	Temporal Databases	A Temporal Data Model Based on Time Sequences.	1993
+Richard T. Snodgrass	Temporal Databases	An Overview of TQuel.	1993
+Abdullah Uz Tansel	Temporal Databases	A Generalized relational Framework for Modeling Temporal Data.	1993
+Alexander Tuzhilin	Temporal Databases	Applications of temporal Databases to Knowledge-based Simulations.	1993
+Gio Wiederhold	Temporal Databases	Integrating Temporal Data in a Heterogeneous Environment.	1993
+Sushil Jajodia	Temporal Databases	Integrating Temporal Data in a Heterogeneous Environment.	1993
+Witold Litwin	Temporal Databases	Integrating Temporal Data in a Heterogeneous Environment.	1993
+Gene T. J. Wuu	Temporal Databases	A Uniform Model for Temporal and Versioned Object-oriented Databases.	1993
+Umeshwar Dayal	Temporal Databases	A Uniform Model for Temporal and Versioned Object-oriented Databases.	1993
+Sanjeev Kumar Aggarwal	The Compiler Design Handbook	Debuggers for Programming Languages.	2002
+M. Sarath Kumar	The Compiler Design Handbook	Debuggers for Programming Languages.	2002
+Vicki H. Allan	The Compiler Design Handbook	Software Pipelining.	2002
+Stephen J. Allan	The Compiler Design Handbook	Software Pipelining.	2002
+Alok N. Choudhary	The Compiler Design Handbook	Compilation for Distributed Memory Architectures.	2002
+Mahmut T. Kandemir	The Compiler Design Handbook	Compilation for Distributed Memory Architectures.	2002
+Evelyn Duesterwald	The Compiler Design Handbook	Dynamic Compilation.	2002
+K. Gopinath	The Compiler Design Handbook	Register Allocation.	2002
+Ramaswamy Govindarajan	The Compiler Design Handbook	Instruction Scheduling.	2002
+Rajiv Gupta	The Compiler Design Handbook	Data Flow Testing.	2002
+Neelam Gupta	The Compiler Design Handbook	Data Flow Testing.	2002
+Rajiv Gupta	The Compiler Design Handbook	Profile-Guided Compiler Optimizations.	2002
+Eduard Mehofer	The Compiler Design Handbook	Profile-Guided Compiler Optimizations.	2002
+Youtao Zhang	The Compiler Design Handbook	Profile-Guided Compiler Optimizations.	2002
+Uday P. Khedker	The Compiler Design Handbook	Data Flow Analysis.	2002
+Andreas Krall	The Compiler Design Handbook	Optimizations for Object-Oriented Languages.	2002
+R. Nigel Horspool	The Compiler Design Handbook	Optimizations for Object-Oriented Languages.	2002
+G. B. Mund	The Compiler Design Handbook	Program Slicing.	2002
+Diganta Goswami	The Compiler Design Handbook	Program Slicing.	2002
+Rajib Mall	The Compiler Design Handbook	Program Slicing.	2002
+Vineeth Kumar Paleri	The Compiler Design Handbook	Automatic Generation of Code Optimizers from Formal Specifications.	2002
+Sanjiva Prasad	The Compiler Design Handbook	Introduction to Operational Semantics.	2002
+S. Arun-Kumar	The Compiler Design Handbook	Introduction to Operational Semantics.	2002
+Wei Qin	The Compiler Design Handbook	Architecture Description Languages for Retargetable Compilation.	2002
+Sharad Malik	The Compiler Design Handbook	Architecture Description Languages for Retargetable Compilation.	2002
+Subramanian Rajagopalan	The Compiler Design Handbook	Retargetable Very Long Instuction Word Compiler Framework for Digital Signal Processors.	2002
+Sharad Malik	The Compiler Design Handbook	Retargetable Very Long Instuction Word Compiler Framework for Digital Signal Processors.	2002
+Sanjay V. Rajopadhye	The Compiler Design Handbook	Dependence Analysis and Parallelizing Transformations.	2002
+J. Ramanujam	The Compiler Design Handbook	Automatic Data Distribution.	2002
+Priti Shankar	The Compiler Design Handbook	Instruction Selection Using Tree Parsing.	2002
+Y. N. Srikant	The Compiler Design Handbook	Scalar Compiler Optimizations on the Static Single Assignment Form and the Flow Graph.	2002
+Ramesh Subrahmanyam	The Compiler Design Handbook	Type Systems in Programming Languages.	2002
+R. Venugopal	The Compiler Design Handbook	Compiling Safe Mobile Code.	2002
+Ravindra B. Keskar	The Compiler Design Handbook	Compiling Safe Mobile Code.	2002
+Reinhard Wilhelm	The Compiler Design Handbook	Shape Analysis and Applications.	2002
+Thomas W. Reps	The Compiler Design Handbook	Shape Analysis and Applications.	2002
+Shmuel Sagiv	The Compiler Design Handbook	Shape Analysis and Applications.	2002
+Jakob Axelsson	The Industrial Information Technology Handbook	A Comparative Case Study of Distributed Network Architectures for Different Automotive Applications.	2005
+Joakim Frberg	The Industrial Information Technology Handbook	A Comparative Case Study of Distributed Network Architectures for Different Automotive Applications.	2005
+Hans Hansson	The Industrial Information Technology Handbook	A Comparative Case Study of Distributed Network Architectures for Different Automotive Applications.	2005
+Christer Norstrm	The Industrial Information Technology Handbook	A Comparative Case Study of Distributed Network Architectures for Different Automotive Applications.	2005
+Kristian Sandstrm	The Industrial Information Technology Handbook	A Comparative Case Study of Distributed Network Architectures for Different Automotive Applications.	2005
+Bjrn Villing	The Industrial Information Technology Handbook	A Comparative Case Study of Distributed Network Architectures for Different Automotive Applications.	2005
+Dietmar Loy	The Industrial Information Technology Handbook	LonWorks/EIA-709 Networks EIA 709 Protocol (Lon Talk).	2005
+Marcos Ribeiro Pereira Barretto	The Industrial Information Technology Handbook	Distributed Components in Microsoft Platforms - Technology Overview.	2005
+Paulo Marcelo Porto Alves Blanco	The Industrial Information Technology Handbook	Distributed Components in Microsoft Platforms - Technology Overview.	2005
+Marco Antonio Poli	The Industrial Information Technology Handbook	Distributed Components in Microsoft Platforms - Technology Overview.	2005
+Paulo Pedreiras	The Industrial Information Technology Handbook	The Quest for Real-Time Behavior in Ethernet.	2005
+Lus Almeida	The Industrial Information Technology Handbook	The Quest for Real-Time Behavior in Ethernet.	2005
+Jos Alberto Fonseca	The Industrial Information Technology Handbook	The Quest for Real-Time Behavior in Ethernet.	2005
+Marcos Ribeiro Pereira Barretto	The Industrial Information Technology Handbook	CORBA in Manufacturing - Technology Overview.	2005
+Paulo Marcelo Porto Alves Blanco	The Industrial Information Technology Handbook	CORBA in Manufacturing - Technology Overview.	2005
+Marco Antonio Poli	The Industrial Information Technology Handbook	CORBA in Manufacturing - Technology Overview.	2005
+Walter T. Penzhorn	The Industrial Information Technology Handbook	IPv6, IPSec, and VPNs.	2005
+Johann Amsenga	The Industrial Information Technology Handbook	IPv6, IPSec, and VPNs.	2005
+Lucia Lo Bello	The Industrial Information Technology Handbook	Overview and Classification of IP Routing Protocols - IP Routing: Interior and Exterior Routing Protocols.	2005
+Enzo Palumbo	The Industrial Information Technology Handbook	Overview and Classification of IP Routing Protocols - IP Routing: Interior and Exterior Routing Protocols.	2005
+Jrn Peschke	The Industrial Information Technology Handbook	Java Technology and Industrial Applications.	2005
+Arndt Lder	The Industrial Information Technology Handbook	Java Technology and Industrial Applications.	2005
+Ivan Cibrario Bertolotti	The Industrial Information Technology Handbook	Internal Architecture and Features of Real-Time Embedded Operation Systems.	2005
+Andreas Polze	The Industrial Information Technology Handbook	Middleware.	2005
+Davide Bertozzi	The Industrial Information Technology Handbook	Network On-Chip Design for Gigascale Systems-on-Chip.	2005
+Luca Benini	The Industrial Information Technology Handbook	Network On-Chip Design for Gigascale Systems-on-Chip.	2005
+Giovanni De Micheli	The Industrial Information Technology Handbook	Network On-Chip Design for Gigascale Systems-on-Chip.	2005
+Manfred Popp	The Industrial Information Technology Handbook	Principles and Features of PROFINET.	2005
+Joachim Feld	The Industrial Information Technology Handbook	Principles and Features of PROFINET.	2005
+Ralph Bsgen	The Industrial Information Technology Handbook	Principles and Features of PROFINET.	2005
+Carsten Beuthel	The Industrial Information Technology Handbook	Knowledge Connect - An Approach for an Industrial IT Service Tool.	2005
+Paul George	The Industrial Information Technology Handbook	Knowledge Connect - An Approach for an Industrial IT Service Tool.	2005
+Ulrich Topp	The Industrial Information Technology Handbook	Knowledge Connect - An Approach for an Industrial IT Service Tool.	2005
+Joo-Ho Lee	The Industrial Information Technology Handbook	Intelligent Space and Mobile Robots.	2005
+Kazuyuki Morioka	The Industrial Information Technology Handbook	Intelligent Space and Mobile Robots.	2005
+Hideki Hashimoto	The Industrial Information Technology Handbook	Intelligent Space and Mobile Robots.	2005
+Jan Blumenthal	The Industrial Information Technology Handbook	Software for Wireless Sensor Networks.	2005
+Frank Golatowski	The Industrial Information Technology Handbook	Software for Wireless Sensor Networks.	2005
+Marc Haase	The Industrial Information Technology Handbook	Software for Wireless Sensor Networks.	2005
+Matthias Handy	The Industrial Information Technology Handbook	Software for Wireless Sensor Networks.	2005
+Jiang B. Liu	The Industrial Information Technology Handbook	Web-based Enterprise Computing Development using J2EE.	2005
+Robert W. Brennan	The Industrial Information Technology Handbook	Holonic Manufacturing Systems: A Technical Overview.	2005
+James H. Christensen	The Industrial Information Technology Handbook	Holonic Manufacturing Systems: A Technical Overview.	2005
+William A. Gruver	The Industrial Information Technology Handbook	Holonic Manufacturing Systems: A Technical Overview.	2005
+Dilip B. Kotak	The Industrial Information Technology Handbook	Holonic Manufacturing Systems: A Technical Overview.	2005
+Douglas H. Norrie	The Industrial Information Technology Handbook	Holonic Manufacturing Systems: A Technical Overview.	2005
+Edwin H. van Leeuwen	The Industrial Information Technology Handbook	Holonic Manufacturing Systems: A Technical Overview.	2005
+Paulo Portugal	The Industrial Information Technology Handbook	The GRAFCET Specification Language.	2005
+Adriano Carvalho	The Industrial Information Technology Handbook	The GRAFCET Specification Language.	2005
+Martin Buchwitz	The Industrial Information Technology Handbook	The IDA Standard.	2005
+Frank Pospiech	The Industrial Information Technology Handbook	Embedded Software in the SoC World. The Concept of HdS in View of the HW and SW Design Challenge.	2005
+Luca P. Carloni	The Industrial Information Technology Handbook	Platform-Based and Derivative Design.	2005
+Fernando De Bernardinis	The Industrial Information Technology Handbook	Platform-Based and Derivative Design.	2005
+Alberto L. Sangiovanni-Vincentelli	The Industrial Information Technology Handbook	Platform-Based and Derivative Design.	2005
+Marco Sgroi	The Industrial Information Technology Handbook	Platform-Based and Derivative Design.	2005
+Wolfgang Radinger	The Industrial Information Technology Handbook	Internet Programming Languages.	2005
+Martin Jandl	The Industrial Information Technology Handbook	Internet Programming Languages.	2005
+Salvatore Cavalieri	The Industrial Information Technology Handbook	FOUNDATION Fieldbus: History and Features.	2005
+Jos Ruela	The Industrial Information Technology Handbook	MPLS - Multiprotocol Label Switching.	2005
+Manuel Ricardo	The Industrial Information Technology Handbook	MPLS - Multiprotocol Label Switching.	2005
+Gianluca Cena	The Industrial Information Technology Handbook	Operating Principles and Features of CAN Networks.	2005
+Adriano Valenzano	The Industrial Information Technology Handbook	Operating Principles and Features of CAN Networks.	2005
+R. Andrew Russell	The Industrial Information Technology Handbook	Robot Tactile Sensing.	2005
+Wander O. Cesrio	The Industrial Information Technology Handbook	Hardware/Software Interfaces Design for SoC.	2005
+Flvio Rech Wagner	The Industrial Information Technology Handbook	Hardware/Software Interfaces Design for SoC.	2005
+Ahmed Amine Jerraya	The Industrial Information Technology Handbook	Hardware/Software Interfaces Design for SoC.	2005
+R. Andrew Russell	The Industrial Information Technology Handbook	Giving Robots a Sense of Smell.	2005
+Suvendi Chinnappen	The Industrial Information Technology Handbook	Mail Transfer and File Transfer Protocol.	2005
+Henning Sanneck	The Industrial Information Technology Handbook	The Integrated Services Architecture and RSVP.	2005
+Armando W. Colombo	The Industrial Information Technology Handbook	Collaborative (Agent-Based) Factory Automation.	2005
+Ronald Schoop	The Industrial Information Technology Handbook	Collaborative (Agent-Based) Factory Automation.	2005
+Ralf Neubert	The Industrial Information Technology Handbook	Collaborative (Agent-Based) Factory Automation.	2005
+Thilo Sauter	The Industrial Information Technology Handbook	Linking Factory Floor and the Internet.	2005
+Jean-Dominique Decotignie	The Industrial Information Technology Handbook	Which Network for Which Application.	2005
+Gnter Schfer	The Industrial Information Technology Handbook	Internet Firewalls.	2005
+Jean-Dominique Decotignie	The Industrial Information Technology Handbook	Interconnection of Wireline and Wireless Fieldbusses.	2005
+Michael Scholles	The Industrial Information Technology Handbook	IEEE 1394 for Factory Automation.	2005
+Uwe Schelinski	The Industrial Information Technology Handbook	IEEE 1394 for Factory Automation.	2005
+Petra Nauber	The Industrial Information Technology Handbook	IEEE 1394 for Factory Automation.	2005
+Eric Dekneuvel	The Industrial Information Technology Handbook	Intelligent Sensors: Analysis and Design.	2005
+Christian Schwaiger	The Industrial Information Technology Handbook	Securtity in Automation Networks.	2005
+Christian Diedrich	The Industrial Information Technology Handbook	Integration Technologies of Field Devices in Distributed Control and Engineering Systems.	2005
+Karlheinz Schwarz	The Industrial Information Technology Handbook	The Standard Message Specification for Industrial Automation Systems -ISO 9506 (MMS).	2005
+Arjan Durresi	The Industrial Information Technology Handbook	RTP, RTCP, and RTSP - Internet Protocols for Real-Time Multimedia Communication.	2005
+Raj Jain	The Industrial Information Technology Handbook	RTP, RTCP, and RTSP - Internet Protocols for Real-Time Multimedia Communication.	2005
+Karlheinz Schwarz	The Industrial Information Technology Handbook	Smart Power Systems Rely on Standards for Information Models and Messaging - IEC 61850.	2005
+Klaus-Peter Eckert	The Industrial Information Technology Handbook	The Fundamentals of Web Services.	2005
+Michael Seyfarth	The Industrial Information Technology Handbook	Open System Architecture for Controls within Automation Systems (OSACA).	2005
+Andreas Kahmen	The Industrial Information Technology Handbook	Open System Architecture for Controls within Automation Systems (OSACA).	2005
+Klaus-Peter Eckert	The Industrial Information Technology Handbook	Programming Web Services with .net and java.	2005
+Dorgham Sisalem	The Industrial Information Technology Handbook	A Survey of Congestion and QoS Control Mechanisms for the Internet.	2005
+Adam Wolisz	The Industrial Information Technology Handbook	A Survey of Congestion and QoS Control Mechanisms for the Internet.	2005
+Stephen Edwards	The Industrial Information Technology Handbook	Languages for Embedded Systems.	2005
+Tor Skeie	The Industrial Information Technology Handbook	Switched Ethernet in Automation Networking.	2005
+Svein Johannessen	The Industrial Information Technology Handbook	Switched Ethernet in Automation Networking.	2005
+yvind Holmeide	The Industrial Information Technology Handbook	Switched Ethernet in Automation Networking.	2005
+David Emerson	The Industrial Information Technology Handbook	Enterprise-Manufacturing Data Exchange Using XML.	2005
+Mrio de Sousa	The Industrial Information Technology Handbook	Programming with the IEC 61131-3 Languages and the MatPLC.	2005
+Adriano Carvalho	The Industrial Information Technology Handbook	Programming with the IEC 61131-3 Languages and the MatPLC.	2005
+Michael Eyrich	The Industrial Information Technology Handbook	The Dynamic Host Configuration Protocol.	2005
+Andreas Steffen	The Industrial Information Technology Handbook	Security in Embedded Systems.	2005
+Jrgen Falb	The Industrial Information Technology Handbook	The Internet Protocol.	2005
+Wolfgang Stripf	The Industrial Information Technology Handbook	PROFIsafe - Safety Technology with PROFIBUS.	2005
+Herbert Barthel	The Industrial Information Technology Handbook	PROFIsafe - Safety Technology with PROFIBUS.	2005
+Jrgen Falb	The Industrial Information Technology Handbook	ARP - Address Resolution Protocol.	2005
+Alexander Fay	The Industrial Information Technology Handbook	XML for the Exchange of Automation Project Information.	2005
+Jean-Pierre Thomesse	The Industrial Information Technology Handbook	The WORLDFIP Fieldbus.	2005
+Andreas Festag	The Industrial Information Technology Handbook	IP-Mobility for Cellular and Wireless Networks.	2005
+Adam Wolisz	The Industrial Information Technology Handbook	IP-Mobility for Cellular and Wireless Networks.	2005
+Kleanthis Thramboulidis	The Industrial Information Technology Handbook	Unified Modeling Language: The Industry Standard for Software Development.	2005
+Shashidhar Gandham	The Industrial Information Technology Handbook	A Survey on Self-Organizing Wireless Sensor Networks.	2005
+Ravi Musunuri	The Industrial Information Technology Handbook	A Survey on Self-Organizing Wireless Sensor Networks.	2005
+Praveen Rentala	The Industrial Information Technology Handbook	A Survey on Self-Organizing Wireless Sensor Networks.	2005
+Udit Saxena	The Industrial Information Technology Handbook	A Survey on Self-Organizing Wireless Sensor Networks.	2005
+Robert Tolksdorf	The Industrial Information Technology Handbook	Web Servers, Clients, and Browsers.	2005
+Karl M. Gschka	The Industrial Information Technology Handbook	The Hypertext Transfer Protocol and Uniform Resource Identifier.	2005
+Pascal Vasseur	The Industrial Information Technology Handbook	Introduction to Multisensor Data Fusion.	2005
+El Mustapha Mouaddib	The Industrial Information Technology Handbook	Introduction to Multisensor Data Fusion.	2005
+Claude Pgard	The Industrial Information Technology Handbook	Introduction to Multisensor Data Fusion.	2005
+Lus Gomes	The Industrial Information Technology Handbook	Models of Computation for Embedded Systems.	2005
+Joo Paulo Barros	The Industrial Information Technology Handbook	Models of Computation for Embedded Systems.	2005
+Yauheni Veryha	The Industrial Information Technology Handbook	Industrial IT-Based Network Management.	2005
+Peter Bort	The Industrial Information Technology Handbook	Industrial IT-Based Network Management.	2005
+Lus Gomes	The Industrial Information Technology Handbook	Hardware-level Design Languages.	2005
+Anik Costa	The Industrial Information Technology Handbook	Hardware-level Design Languages.	2005
+Claus Vetter	The Industrial Information Technology Handbook	Integration Between Production and Business Systems.	2005
+Thomas Werner	The Industrial Information Technology Handbook	Integration Between Production and Business Systems.	2005
+Pavel Vrba	The Industrial Information Technology Handbook	From Holonic Control to Virtual Enterprises: The Multi-Agent Approach.	2005
+Vladimr Mark	The Industrial Information Technology Handbook	From Holonic Control to Virtual Enterprises: The Multi-Agent Approach.	2005
+Hans-Michael Hanisch	The Industrial Information Technology Handbook	Acheiving Reconfigurability of Automation Systems by Using the New International Standard IEC 61499: A Developer's View.	2005
+Valeriy Vyatkin	The Industrial Information Technology Handbook	Acheiving Reconfigurability of Automation Systems by Using the New International Standard IEC 61499: A Developer's View.	2005
+Klaus Wehrle	The Industrial Information Technology Handbook	IP-QoS: Scalable and Flexible Quality-of-Service with Differentiated Services.	2005
+Hans Hansson	The Industrial Information Technology Handbook	Real-Time Systems.	2005
+Mikael Nolin	The Industrial Information Technology Handbook	Real-Time Systems.	2005
+Thomas Nolte	The Industrial Information Technology Handbook	Real-Time Systems.	2005
+Andreas Willig	The Industrial Information Technology Handbook	Wireless LAN Technology for the Factory Floor.	2005
+Guido Heising	The Industrial Information Technology Handbook	Internet Still Image and Video Formats.	2005
+Kai Uwe Barthel	The Industrial Information Technology Handbook	Internet Still Image and Video Formats.	2005
+Andreas Willing	The Industrial Information Technology Handbook	Principles of Lower-Layer Protocols for Data Communications.	2005
+Hagen Woesner	The Industrial Information Technology Handbook	Principles of Lower-Layer Protocols for Data Communications.	2005
+T. T. Mai Hoang	The Industrial Information Technology Handbook	Network Management: Basic Notions and Frameworks.	2005
+Tanja Zseby	The Industrial Information Technology Handbook	Multicast.	2005
+Thomas P. von Hoff	The Industrial Information Technology Handbook	HTTP Digest Authentication - Theory and Practice.	2005
+Mario Crevatin	The Industrial Information Technology Handbook	HTTP Digest Authentication - Theory and Practice.	2005
+Zaijun Hu	The Industrial Information Technology Handbook	Web Services for Integrated Automation Systems - Challenges, Solutions and Future.	2005
+Eckhard Kruse	The Industrial Information Technology Handbook	Web Services for Integrated Automation Systems - Challenges, Solutions and Future.	2005
+Aarti Gupta	The Industrial Information Technology Handbook	Verification Languages.	2005
+Ali Alphan Bayazit	The Industrial Information Technology Handbook	Verification Languages.	2005
+Yogesh S. Mahajan	The Industrial Information Technology Handbook	Verification Languages.	2005
+Karin Anna Hummel	The Industrial Information Technology Handbook	Mobile IP Routing.	2005
+Helmut Hlavacs	The Industrial Information Technology Handbook	Mobile IP Routing.	2005
+Hans-Arno Jacobsen	The Industrial Information Technology Handbook	Remote Monitoring and Control over the Internet.	2005
+Margarida F. Jacome	The Industrial Information Technology Handbook	Power Aware Embedded Computing.	2005
+Anand Ramachandran	The Industrial Information Technology Handbook	Power Aware Embedded Computing.	2005
+Ray Jarvis	The Industrial Information Technology Handbook	Robot Vision.	2005
+Thomas Jatschka	The Industrial Information Technology Handbook	Bluetooth.	2005
+Robert Tschofen	The Industrial Information Technology Handbook	Bluetooth.	2005
+Ulrich Jecht	The Industrial Information Technology Handbook	PROFIBUS - Open Solutions for the World of Automation.	2005
+Wolfgang Stripf	The Industrial Information Technology Handbook	PROFIBUS - Open Solutions for the World of Automation.	2005
+Peter Wenzel	The Industrial Information Technology Handbook	PROFIBUS - Open Solutions for the World of Automation.	2005
+Wolfgang Kampichler	The Industrial Information Technology Handbook	The Fundamentals of the Quality of Service.	2005
+Holger Karl	The Industrial Information Technology Handbook	Ad Hoc Networks.	2005
+Thenkurussi Kesavadas	The Industrial Information Technology Handbook	Applications of Haptics in Design and Manufacturing.	2005
+Arvind Balijepalli	The Industrial Information Technology Handbook	Applications of Haptics in Design and Manufacturing.	2005
+Cartik Sharma	The Industrial Information Technology Handbook	Applications of Haptics in Design and Manufacturing.	2005
+Dongsung Kim	The Industrial Information Technology Handbook	Implementation af a Virtual Factory Communication System using the Manufacturing Message Specification Standard.	2005
+Zygmunt J. Haas	The Industrial Information Technology Handbook	Implementation af a Virtual Factory Communication System using the Manufacturing Message Specification Standard.	2005
+Wook Hyun Kwon	The Industrial Information Technology Handbook	Implementation af a Virtual Factory Communication System using the Manufacturing Message Specification Standard.	2005
+Lindsay Kleeman	The Industrial Information Technology Handbook	Ultrasonic Sensors in Robotics.	2005
+Martin von Lwis	The Industrial Information Technology Handbook	Microsoft's .NET.	2005
+Peter Trger	The Industrial Information Technology Handbook	Microsoft's .NET.	2005
+Axel Klostermeyer	The Industrial Information Technology Handbook	Multiagent-based Architecture for Plant Automation.	2005
+Eckehardt Klemm	The Industrial Information Technology Handbook	Multiagent-based Architecture for Plant Automation.	2005
+Muammer Koc	The Industrial Information Technology Handbook	Introduction to e-Manufacturing.	2005
+Jun Ni	The Industrial Information Technology Handbook	Introduction to e-Manufacturing.	2005
+Jay Lee	The Industrial Information Technology Handbook	Introduction to e-Manufacturing.	2005
+Pulak Bandyopadhyay	The Industrial Information Technology Handbook	Introduction to e-Manufacturing.	2005
+Hermann Kopetz	The Industrial Information Technology Handbook	Time-Triggered Communication Networks.	2005
+Gnther Bauer	The Industrial Information Technology Handbook	Time-Triggered Communication Networks.	2005
+Peter Korondi	The Industrial Information Technology Handbook	Internet-Based Telemanipulation.	2005
+Peter Tamas Szemes	The Industrial Information Technology Handbook	Internet-Based Telemanipulation.	2005
+P. Hashimoto	The Industrial Information Technology Handbook	Internet-Based Telemanipulation.	2005
+Christopher Krgel	The Industrial Information Technology Handbook	Network Security and Secure Applications.	2005
+Michael Kunes	The Industrial Information Technology Handbook	Simple Network Management Protocol SNMP.	2005
+Christian Kurz	The Industrial Information Technology Handbook	TCP/IP Architecture, Protocols, and Services.	2005
+Helmut Hlavacs	The Industrial Information Technology Handbook	TCP/IP Architecture, Protocols, and Services.	2005
+Jrgen Lange	The Industrial Information Technology Handbook	OPC - Openness, Productivity, and Connectivity.	2005
+Frank Iwanitz	The Industrial Information Technology Handbook	OPC - Openness, Productivity, and Connectivity.	2005
+Luciano Lavagno	The Industrial Information Technology Handbook	Design of Embedded Systems.	2005
+Claudio Passerone	The Industrial Information Technology Handbook	Design of Embedded Systems.	2005
+Kang Lee	The Industrial Information Technology Handbook	A Smart Transducer Interface Standard for Sensors and Actuators.	2005
+Dietmar Loy	The Industrial Information Technology Handbook	LonWorksTM over IP.	2005
+Stefan Soucek	The Industrial Information Technology Handbook	LonWorksTM over IP.	2005
+Aleksander Malinowski	The Industrial Information Technology Handbook	The Transmission Control Protocol.	2005
+Bogdan M. Wilamowski	The Industrial Information Technology Handbook	The Transmission Control Protocol.	2005
+Torben Bach Pedersen	The Industrial Information Technology Handbook	Multidimensional Databases.	2005
+Christian S. Jensen	The Industrial Information Technology Handbook	Multidimensional Databases.	2005
+Aleksander Malinowski	The Industrial Information Technology Handbook	The User Datagram protocol.	2005
+Bogdan M. Wilamowski	The Industrial Information Technology Handbook	The User Datagram protocol.	2005
+Pau Mart	The Industrial Information Technology Handbook	Networked Control Systems Overview.	2005
+Ricard Vill	The Industrial Information Technology Handbook	Networked Control Systems Overview.	2005
+Josep M. Fuertes	The Industrial Information Technology Handbook	Networked Control Systems Overview.	2005
+Gerhard Fohler	The Industrial Information Technology Handbook	Networked Control Systems Overview.	2005
+Grant Martin	The Industrial Information Technology Handbook	System-on-Chip and Network-on-Chip Design.	2005
+Kirsten Matheus	The Industrial Information Technology Handbook	Wireless Local Area Networks and Wireless Personal Area Networks (WLANs and WPANs).	2005
+Fabrizio Meo	The Industrial Information Technology Handbook	Open Controller Enabled by an Advanced Real-Time Network (OCEAN).	2005
+Martin Naedele	The Industrial Information Technology Handbook	IT Security for Automation Systems.	2005
+Peter Palensky	The Industrial Information Technology Handbook	The JEVIS Service Platform - Distributed Energy Data Acquisition and Management.	2005
+Hiren D. Patel	The Industrial Information Technology Handbook	An Introductory Survey of Networked Embedded Systems.	2005
+Sumit Gupta	The Industrial Information Technology Handbook	An Introductory Survey of Networked Embedded Systems.	2005
+Sandeep K. Shukla	The Industrial Information Technology Handbook	An Introductory Survey of Networked Embedded Systems.	2005
+Rajesh Gupta	The Industrial Information Technology Handbook	An Introductory Survey of Networked Embedded Systems.	2005
+Thomas E. Anderson	The Computer Science and Engineering Handbook	Thread Management for Shared-Memory Multiprocessors.	1997
+Brian N. Bershad	The Computer Science and Engineering Handbook	Thread Management for Shared-Memory Multiprocessors.	1997
+Edward D. Lazowska	The Computer Science and Engineering Handbook	Thread Management for Shared-Memory Multiprocessors.	1997
+Henry M. Levy	The Computer Science and Engineering Handbook	Thread Management for Shared-Memory Multiprocessors.	1997
+Michael Wolfe	The Computer Science and Engineering Handbook	Parallelizing Compilers.	1997
+Anthony A. Apodaca	The Computer Science and Engineering Handbook	Renderman�: An Interface for Image Synthesis.	1997
+Deborah G. Johnson	The Computer Science and Engineering Handbook	Ethical Issues for Computer Scientists and Engineers.	1997
+Keith W. Miller	The Computer Science and Engineering Handbook	Ethical Issues for Computer Scientists and Engineers.	1997
+Franois Bancilhon	The Computer Science and Engineering Handbook	Object-Oriented Databases.	1997
+Frank L. Lewis	The Computer Science and Engineering Handbook	Robotics.	1997
+M. Fitzgerald	The Computer Science and Engineering Handbook	Robotics.	1997
+Kai Liu	The Computer Science and Engineering Handbook	Robotics.	1997
+Steven M. Bellovin	The Computer Science and Engineering Handbook	Network and Internet Security.	1997
+Andrew P. Bernat	The Computer Science and Engineering Handbook	Concurrent/Distributed Programming Paradigm.	1997
+Guy E. Blelloch	The Computer Science and Engineering Handbook	Parallel Algorithms.	1997
+Bruce M. Maggs	The Computer Science and Engineering Handbook	Parallel Algorithms.	1997
+Jonathan P. Bowen	The Computer Science and Engineering Handbook	Formal Models and the Specification Process.	1997
+Michael G. Hinchey	The Computer Science and Engineering Handbook	Formal Models and the Specification Process.	1997
+Ruven E. Brooks	The Computer Science and Engineering Handbook	User Interface Design Activities.	1997
+Steve Bryson	The Computer Science and Engineering Handbook	Virtual Reality.	1997
+Doug Burger	The Computer Science and Engineering Handbook	Memory Systems.	1997
+James R. Goodman	The Computer Science and Engineering Handbook	Memory Systems.	1997
+Gurindar S. Sohi	The Computer Science and Engineering Handbook	Memory Systems.	1997
+Luca Cardelli	The Computer Science and Engineering Handbook	Type Systems.	1997
+David A. Caughey	The Computer Science and Engineering Handbook	Computational Fluid Dynamics.	1997
+Stefano Ceri	The Computer Science and Engineering Handbook	Rules in Data-Based Systems.	1997
+Raghu Ramakrishnan	The Computer Science and Engineering Handbook	Rules in Data-Based Systems.	1997
+Vijay Chandru	The Computer Science and Engineering Handbook	Combinatorial Optimization.	1997
+M. R. Rao	The Computer Science and Engineering Handbook	Combinatorial Optimization.	1997
+Steve J. Chapin	The Computer Science and Engineering Handbook	Distributed and Multiprocessor Scheduling.	1997
+Paquale Cinnella	The Computer Science and Engineering Handbook	Computational Reacting Flow.	1997
+Carey F. Cox	The Computer Science and Engineering Handbook	Computational Reacting Flow.	1997
+Jacques Cohen	The Computer Science and Engineering Handbook	Logic Programming and Constraint Logic Programming.	1997
+Maxime Crochemore	The Computer Science and Engineering Handbook	Pattern Matching and Text Compression Algorithms.	1997
+Thierry Lecroq	The Computer Science and Engineering Handbook	Pattern Matching and Text Compression Algorithms.	1997
+Robert D. Cupper	The Computer Science and Engineering Handbook	Process and Device Scheduling.	1997
+Gerald DeJong	The Computer Science and Engineering Handbook	Explanation-Based Learning.	1997
+Thomas Dean	The Computer Science and Engineering Handbook	Planning and Scheduling.	1997
+Subbarao Kambhampati	The Computer Science and Engineering Handbook	Planning and Scheduling.	1997
+Steven A. Demurjian	The Computer Science and Engineering Handbook	Traditional Software Design.	1997
+Peter J. Denning	The Computer Science and Engineering Handbook	Virtual Memory.	1997
+Angel Daz	The Computer Science and Engineering Handbook	Algebraic Algorithms.	1997
+Erich Kaltofen	The Computer Science and Engineering Handbook	Algebraic Algorithms.	1997
+Victor Y. Pan	The Computer Science and Engineering Handbook	Algebraic Algorithms.	1997
+Thomas W. Doeppner Jr.	The Computer Science and Engineering Handbook	Distributed File Systems and Distributed Memory.	1997
+John A. Stankovic	The Computer Science and Engineering Handbook	Real-Time and Embedded Systems.	1997
+Colin Ware	The Computer Science and Engineering Handbook	Output Devices and Techniques.	1997
+Jrgen Ziegler	The Computer Science and Engineering Handbook	Interactive Techniques.	1997
+David S. Ebert	The Computer Science and Engineering Handbook	Advanced Geometric Modeling.	1997
+James Feldman	The Computer Science and Engineering Handbook	Digital Logic.	1997
+David Ferbrache	The Computer Science and Engineering Handbook	Malicious Software and Hacking.	1997
+Stuart Mort	The Computer Science and Engineering Handbook	Malicious Software and Hacking.	1997
+Raphael A. Finkel	The Computer Science and Engineering Handbook	What Is an Operating System?	1997
+Roberto Tamassia	The Computer Science and Engineering Handbook	Data Structures.	1997
+Bryan Cantrill	The Computer Science and Engineering Handbook	Data Structures.	1997
+Alan Watt	The Computer Science and Engineering Handbook	Mainstream Rendering Techniques.	1997
+Kenneth D. Forbus	The Computer Science and Engineering Handbook	Qualitative Reasoning.	1997
+Stephanie Forrest	The Computer Science and Engineering Handbook	Genetic Algorithms.	1997
+Michael J. Franklin	The Computer Science and Engineering Handbook	Concurrency Control and Recovery.	1997
+John D. Gannon	The Computer Science and Engineering Handbook	Verification and Validation.	1997
+Carlo Ghezzi	The Computer Science and Engineering Handbook	Software Qualities and Principles.	1997
+Mehdi Jazayeri	The Computer Science and Engineering Handbook	Software Qualities and Principles.	1997
+Dino Mandrioli	The Computer Science and Engineering Handbook	Software Qualities and Principles.	1997
+Benjamin Goldberg	The Computer Science and Engineering Handbook	Functional Programming Languages.	1997
+Jonathan Grudin	The Computer Science and Engineering Handbook	The Organizational Context of Development and Use.	1997
+Stuart Hirshfield	The Computer Science and Engineering Handbook	The Object-Oriented Language Paradigm.	1997

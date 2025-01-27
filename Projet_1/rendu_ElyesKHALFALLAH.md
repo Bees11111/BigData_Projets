@@ -1,4 +1,4 @@
-# Projet n°1 - Requetes sur MongoDB
+# Projet n°1 - NoSQL avec MongoDB
 
 Elyes KHALFALLAH - 5230635
 

@@ -1,6 +1,5 @@
-# Remove large-txt.txt in Projet_2 folder
+# Remove large-txt.txt in Projet_2 folder car il est trop grand pour etre push
 Projet_2/large-txt.txt
-README.md
 
 # Environments
 env/

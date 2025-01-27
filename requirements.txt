@@ -1,0 +1,6 @@
+ipykernel
+multiprocess
+matplotlib
+seaborn
+numpy
+tqdm
